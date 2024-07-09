@@ -1,6 +1,6 @@
 # Das Gradientenverfahren [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahudde/Gradientenverfahren/HEAD?labpath=Gradientenverfahren.ipynb)
 
-![newplot](https://user-images.githubusercontent.com/60978072/150697749-3bf39092-d7b7-4ff3-8c2b-a50b096422bb.png)
+![gradientenverfahren](https://github.com/ahudde/Gradientenverfahren/assets/60978072/927cd918-ab0f-4191-9d90-57cf847d0687)
 
 Dieses Notebook vermittelt, wie mich man Extremwerte von Funktionen von mehreren Veränderlichen mittels der Gradientverfahrens bestimmt.
 Weiterhin wird gezeigt, wie sich das Gradientenverfahren mit dem Python-Paket `SciPy` durchführen lässt.
